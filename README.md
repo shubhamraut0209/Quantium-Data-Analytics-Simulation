@@ -63,11 +63,13 @@ Quantium-Data-Analytics-Simulation/
 
 ---
 
+## 📈 Insights Summary
+- Identified most valuable customer segments by pack size and brand
+- Enabled evidence-backed decisions on trial store rollouts
+- Helped category manager shape future strategy for chips category
 
+---
 
+## 📬 Contact
 
-
-
-
-
-
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/shubham-raut-986bb1227) for collaborations or to know more about my work!
